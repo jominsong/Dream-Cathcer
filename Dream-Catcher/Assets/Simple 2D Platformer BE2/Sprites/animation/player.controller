@@ -116,7 +116,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 2
-    m_ConditionEvent: is walking
+    m_ConditionEvent: is jumping
     m_EventTreshold: 0
   - m_ConditionMode: 1
     m_ConditionEvent: is walking
